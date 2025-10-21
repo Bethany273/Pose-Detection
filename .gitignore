@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+virtualEnvironment.venv/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+*.code-workspace
+.history/
+
+# Model and image files (uncomment if you want to exclude these)
+# *.task
+# *.jpg
+# *.png
