@@ -1,0 +1,5 @@
+mediapipe==0.10.0
+opencv-python>=4.5.5
+# Note: mediapipe binary wheels are provided for Python 3.8-3.11 on many platforms.
+# If you have Python 3.12+ (or 3.13) you may need to install a supported interpreter
+# or build from source (not recommended).
