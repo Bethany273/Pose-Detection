@@ -1,3 +1,8 @@
+"""
+Pose Detection using MediaPipe and OpenCV
+This script detects human pose landmarks in images and visualizes them.
+"""
+
 from mediapipe import solutions
 from mediapipe.framework.formats import landmark_pb2
 import numpy as np
